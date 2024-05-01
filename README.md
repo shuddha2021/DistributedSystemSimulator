@@ -10,6 +10,13 @@ The Distributed System Simulator is a lightweight Go application designed to sim
 - **Error Handling**: Proper error handling with appropriate HTTP status codes and log messages.
 - **Unit Tests**: Comprehensive unit tests to validate the behavior of key functions, including `GetNodeData`, `RootHandler`, and `UpdateNode`.
 
+<img width="1796" alt="Screenshot 2024-05-01 at 3 02 12 PM" src="https://github.com/shuddha2021/distributed-system-simulator-in-golang/assets/81951239/7e3703b9-33af-4fbe-af4c-ad82f5499e54">
+
+<img width="937" alt="Screenshot 2024-05-01 at 3 02 32 PM" src="https://github.com/shuddha2021/distributed-system-simulator-in-golang/assets/81951239/a840c2c9-8cdf-44b8-85dd-24da5e5de4f4">
+
+<img width="1174" alt="Screenshot 2024-05-01 at 3 02 52 PM" src="https://github.com/shuddha2021/distributed-system-simulator-in-golang/assets/81951239/cd0d0640-1743-48f0-8f66-cd8620d112f8">
+
+
 ## Core Logic
 
 The core logic of the application revolves around simulating a set of nodes in a distributed system and providing HTTP endpoints to interact with them. Here's a brief overview of how it works:
